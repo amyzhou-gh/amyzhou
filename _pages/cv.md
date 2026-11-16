@@ -14,15 +14,18 @@ Education
 * Ph.D in Curriculum and Instruction, The Chinese University of Hong Kong, 2022
 * M.A. in English Studies, City University of Hong Kong, 2016
 * M.Phil. in Higher Education, South China University of Technology, 2013
-* B.Ec. in International Economics and Trade, Central China Normal University, 2010
+* B.Ec. in International Economics and Trade, Central China Normal University (Hankou College), 2010
 
 Work experience
 ======
 * 2023-2024: Postdoctoral Fellow
   * The Hong Kong Polytechnic University
 
-* 2017-2019: Research Assistant
+* 2017-2019: Project Assistant, Research Assistant, Research Associate
   * The Hong Kong Polytechnic University
+ 
+* 2013-2016: Executive Officer
+  * Guangzhou City University of Technology
 
   
 Skills
